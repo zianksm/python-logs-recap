@@ -36,4 +36,4 @@ else
 fi
 
 # Your Python script code goes here
-python rekap.py
+python3 rekap.py
